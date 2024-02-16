@@ -3,6 +3,6 @@ public class App {
         System.out.println("Hello, World!!!");
         //https://github.com/Sh1nchaan/vscode.git
         //comment changes
-        //THIS IS SOOO KOOL OMGGG!!
+        //THIS IS SOOO KOOL OMGG!
     }
 }
